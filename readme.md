@@ -5,7 +5,7 @@ Tập dữ liệu sử dụng:
 - Thành tích cầu thủ: https://www.kaggle.com/datasets/vivovinco/20212022-football-player-stats
 
 Công cụ sử dụng: Apache Zeppelin
-
+Ngôn ngữ: Python
 1 vài hình ảnh từ dashboard:
 ![ảnh 1](./images/1.png)
 ![ảnh 2](./images/2.png)
